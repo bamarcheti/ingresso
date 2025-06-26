@@ -3,7 +3,7 @@
 > Sistema web para simular a compra de ingressos de diferentes setores (Pista, Cadeira Superior, Cadeira Inferior), com controle de quantidade disponível e feedback visual para o usuário.  
 > Desenvolvido como exercício de prática em manipulação do DOM, formulários e lógica em JavaScript.
 
-[🔗 Clique aqui para acessar o projeto](https://ingrsso.vercel.app/)
+[🔗 Clique aqui para acessar o projeto]([https://ingrsso.vercel.app/](https://ingresso-bamarchetis-projects.vercel.app/))
 
 ## **🛠 Tecnologias**
 
